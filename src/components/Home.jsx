@@ -76,7 +76,7 @@ const Container = styled.main`
     padding: 0.5rem calc(4.5vw + 5px) 0rem calc(4.5vw + 5px);
 
 	&:after{
-		background: url("/images/home-background.png") center center / cover no-repeat fixed;
+		background: url("./images/home-background.png") center center / cover no-repeat fixed;
 		content: '';
 		position: absolute;
 		inset: 0px;
